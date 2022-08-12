@@ -2,18 +2,18 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/breakinNewsFragment"
-        android:icon="@drawable/ic_breaking_news"
-        android:title="Breaking News" />
+        android:icon="@drawable/bolt_outline"
+        android:title="Breaking" />
 
     <item
         android:id="@+id/savedNewsFragment"
-        android:icon="@drawable/ic_favorite"
+        android:icon="@drawable/ic_baseline_favorite_border_24"
         android:title="Saved News" />
 
     <item
         android:id="@+id/searchNewsFragment"
-        android:icon="@drawable/ic_all_news"
-        android:title="Search News" />
+        android:icon="@drawable/ic_search_news"
+        android:title="Search" />
 
 
 </menu>
